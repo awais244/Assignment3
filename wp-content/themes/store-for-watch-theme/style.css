@@ -1,0 +1,24 @@
+/*
+Theme Name:     Store for watch theme
+Description:    
+Author:         _awais24
+Template:       storefront
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+/* Theme Name: Watch Child Theme */
+/* Template: economics */
+/* Theme Name: Watch Child Theme */
+/* Template: economics */
+/* Theme Name: Watch Child Theme */
+/* Template: economics */
+
+body {
+    background-color: #1a1a1a; 
+    color: #ffffff; 
+}
+
+
+header a, #content a {
+    color: #CDA34F; 
+}
